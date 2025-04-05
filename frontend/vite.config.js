@@ -10,5 +10,8 @@ export default defineConfig({
       "/api/": "http://localhost:5000",
       "/uploads/": "http://localhost:5000",
     },
+    allowedHosts: [
+      "6579-2409-40f4-2100-9741-59a2-db6b-1e47-1f8d.ngrok-free.app",
+    ],
   },
 });

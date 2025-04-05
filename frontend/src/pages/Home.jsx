@@ -26,11 +26,7 @@ const Home = () => {
 
         {/* Right Content */}
         <div className="md:w-1/2 mt-8 md:mt-0 flex justify-center relative">
-          <img
-            src={Home1}
-            alt="E-Waste Hero Illustration"
-            className=""
-          />
+          <img src={Home1} alt="E-Waste Hero Illustration" className="" />
         </div>
       </div>
 

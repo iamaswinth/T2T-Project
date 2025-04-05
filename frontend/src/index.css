@@ -4,4 +4,4 @@
 @tailwind components;
 @tailwind utilities;
 
-
+/* Force all elements to act as if screen is small */
